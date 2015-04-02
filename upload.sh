@@ -1,1 +1,1 @@
-rsync -avP --delete wordpress/* glasses:/ivy/gamedevlou/
+rsync -avP --delete wordpress/* ivy:/ivy/gamedevlou/
