@@ -2,7 +2,7 @@
 /**
  * The template used for displaying page content in page.php
  *
- * @package GameDevLou2015
+ * @package _s
  */
 ?>
 
@@ -15,13 +15,13 @@
 		<?php the_content(); ?>
 		<?php
 			wp_link_pages( array(
-				'before' => '<div class="page-links">' . __( 'Pages:', 'gamedevlou2015' ),
+				'before' => '<div class="page-links">' . __( 'Pages:', '_s' ),
 				'after'  => '</div>',
 			) );
 		?>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
-		<?php edit_post_link( __( 'Edit', 'gamedevlou2015' ), '<span class="edit-link">', '</span>' ); ?>
+		<?php edit_post_link( __( 'Edit', '_s' ), '<span class="edit-link">', '</span>' ); ?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-## -->

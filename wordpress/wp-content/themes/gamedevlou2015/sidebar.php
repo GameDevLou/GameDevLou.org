@@ -2,7 +2,7 @@
 /**
  * The sidebar containing the main widget area.
  *
- * @package GameDevLou2015
+ * @package _s
  */
 
 if ( ! is_active_sidebar( 'sidebar-1' ) ) {

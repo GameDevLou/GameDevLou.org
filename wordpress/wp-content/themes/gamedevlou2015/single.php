@@ -2,7 +2,7 @@
 /**
  * The template for displaying all single posts.
  *
- * @package GameDevLou2015
+ * @package _s
  */
 
 get_header(); ?>
